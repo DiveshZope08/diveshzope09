@@ -1,2 +1,3 @@
-# diveshzope09
-Basic banking System web development project
+# Basic-Banking-System
+Divesh zope 
+The Spark Foundation (GRIP)
